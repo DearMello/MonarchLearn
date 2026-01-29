@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchLearn.Domain", "Mona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchLearn.Application", "MonarchLearn.Application\MonarchLearn.Application.csproj", "{DB028AF3-4A30-4DAF-BAA4-96F6093F76E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchLearn.Infrastructure", "..\..\..\..\..\Documents\MATRIX_PROJECT\MonarchLearn.Infrastructure\MonarchLearn.Infrastructure.csproj", "{9E4F322B-8E56-4251-A9E2-1D1AE8B4B10B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchLearn.Api", "MonarchLearn.Api\MonarchLearn.Api.csproj", "{DA09524B-FD00-45B4-B4BD-10A982861A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchLearn.Infrastructure", "MonarchLearn.Infrastructure\MonarchLearn.Infrastructure.csproj", "{3958937A-0705-76FE-0ECC-A47EEC12F01C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +25,14 @@ Global
 		{DB028AF3-4A30-4DAF-BAA4-96F6093F76E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB028AF3-4A30-4DAF-BAA4-96F6093F76E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB028AF3-4A30-4DAF-BAA4-96F6093F76E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9E4F322B-8E56-4251-A9E2-1D1AE8B4B10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9E4F322B-8E56-4251-A9E2-1D1AE8B4B10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9E4F322B-8E56-4251-A9E2-1D1AE8B4B10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9E4F322B-8E56-4251-A9E2-1D1AE8B4B10B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DA09524B-FD00-45B4-B4BD-10A982861A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DA09524B-FD00-45B4-B4BD-10A982861A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA09524B-FD00-45B4-B4BD-10A982861A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA09524B-FD00-45B4-B4BD-10A982861A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3958937A-0705-76FE-0ECC-A47EEC12F01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3958937A-0705-76FE-0ECC-A47EEC12F01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3958937A-0705-76FE-0ECC-A47EEC12F01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3958937A-0705-76FE-0ECC-A47EEC12F01C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
