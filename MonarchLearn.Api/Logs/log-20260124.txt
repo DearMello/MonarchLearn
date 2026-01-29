@@ -1,0 +1,328 @@
+[2026-01-24 21:14:26 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-24 21:14:27 INF] Start installing Hangfire SQL objects...
+[2026-01-24 21:14:27 INF] PDF Browser is ready.
+[2026-01-24 21:14:28 INF] Hangfire SQL objects installed.
+[2026-01-24 21:14:30 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:14:30 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:14:30 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:14:30 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:14:30 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:14:30 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:14:30 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:14:32 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-24 21:14:32 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-24 21:14:32 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-24 21:14:32 INF] Server dearmellocomp:13552:155dbef3 successfully announced in 38.6854 ms
+[2026-01-24 21:14:32 INF] Server dearmellocomp:13552:155dbef3 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-24 21:14:32 INF] 1 servers were removed due to timeout
+[2026-01-24 21:14:32 INF] Server dearmellocomp:13552:155dbef3 all the dispatchers started
+[2026-01-24 21:14:33 INF] HTTP GET / responded 404 in 247.5907 ms
+[2026-01-24 21:14:33 INF] HTTP GET /swagger/index.html responded 200 in 252.5828 ms
+[2026-01-24 21:14:33 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 64.6983 ms
+[2026-01-24 21:14:33 INF] --- STREAK RESET JOB STARTED ---
+[2026-01-24 21:14:33 INF] --- SUBSCRIPTION NOTIFICATION JOB STARTED ---
+[2026-01-24 21:14:33 INF] Checking inactivity before Baku date: 1/23/2026
+[2026-01-24 21:14:33 INF] --- STREAK RESET JOB FINISHED. Total 0 users reset. ---
+[2026-01-24 21:14:33 INF] --- SUBSCRIPTION NOTIFICATION JOB FINISHED ---
+[2026-01-24 21:44:37 INF] Registration attempt for email: yodamethegrogu@gmail.com
+[2026-01-24 21:44:38 INF] User yodamethegrogu@gmail.com registered successfully as Student. Email verification required.
+[2026-01-24 21:44:38 INF] Email verification requested for User 5
+[2026-01-24 21:44:38 INF] Verification email (OTP) queued for User 5
+[2026-01-24 21:44:38 INF] HTTP POST /api/v1/auth/registrations responded 201 in 842.9507 ms
+[2026-01-24 21:44:40 INF] Background email successfully sent to yodamethegrogu@gmail.com for User 5
+[2026-01-24 21:45:39 INF] Email verification attempt for yodamethegrogu@gmail.com
+[2026-01-24 21:45:39 ERR] Email verification failed for yodamethegrogu@gmail.com: Invalid or expired code
+[2026-01-24 21:46:27 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-24 21:46:27 INF] Start installing Hangfire SQL objects...
+[2026-01-24 21:46:28 INF] PDF Browser is ready.
+[2026-01-24 21:46:28 INF] Hangfire SQL objects installed.
+[2026-01-24 21:46:30 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:46:30 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:46:30 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:46:30 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:46:30 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:46:30 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:46:30 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:26 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-24 21:47:26 INF] Start installing Hangfire SQL objects...
+[2026-01-24 21:47:26 INF] PDF Browser is ready.
+[2026-01-24 21:47:27 INF] Hangfire SQL objects installed.
+[2026-01-24 21:47:28 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:28 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:28 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:28 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:28 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:28 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:28 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:47:29 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-24 21:47:29 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-24 21:47:29 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-24 21:47:29 INF] Server dearmellocomp:25276:2b345082 successfully announced in 15.8123 ms
+[2026-01-24 21:47:29 INF] Server dearmellocomp:25276:2b345082 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-24 21:47:29 INF] Server dearmellocomp:25276:2b345082 all the dispatchers started
+[2026-01-24 21:47:29 INF] HTTP GET / responded 404 in 378.8726 ms
+[2026-01-24 21:47:46 INF] HTTP GET /swagger/index.html responded 200 in 98.8000 ms
+[2026-01-24 21:47:46 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 52.9930 ms
+[2026-01-24 21:48:57 INF] Email verification attempt for yodamethegrogu@gmail.com
+[2026-01-24 21:48:58 INF] Email verified successfully for yodamethegrogu@gmail.com
+[2026-01-24 21:48:58 INF] HTTP POST /api/v1/auth/email-verifications responded 200 in 420.6853 ms
+[2026-01-24 21:54:19 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-24 21:54:19 INF] Start installing Hangfire SQL objects...
+[2026-01-24 21:54:20 INF] PDF Browser is ready.
+[2026-01-24 21:54:20 INF] Hangfire SQL objects installed.
+[2026-01-24 21:54:22 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:54:22 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:54:22 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:54:22 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:54:22 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:54:22 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:54:22 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-24 21:54:24 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-24 21:54:24 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-24 21:54:24 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-24 21:54:24 INF] Server dearmellocomp:4228:bf8b95f3 successfully announced in 27.4314 ms
+[2026-01-24 21:54:24 INF] Server dearmellocomp:4228:bf8b95f3 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-24 21:54:24 INF] 1 servers were removed due to timeout
+[2026-01-24 21:54:24 INF] Server dearmellocomp:4228:bf8b95f3 all the dispatchers started
+[2026-01-24 21:54:24 INF] HTTP GET / responded 404 in 169.9004 ms
+[2026-01-24 21:54:24 INF] HTTP GET /swagger/index.html responded 200 in 188.5944 ms
+[2026-01-24 21:54:24 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 47.1483 ms
+[2026-01-24 21:58:00 INF] Login attempt for email: yodamethegrogu@gmail.com
+[2026-01-24 21:58:00 INF] User yodamethegrogu@gmail.com logged in successfully
+[2026-01-24 21:58:00 INF] HTTP POST /api/v1/auth/logins responded 200 in 619.6694 ms
+[2026-01-24 21:58:43 INF] Retrieved 5 categories from DATABASE and updated cache
+[2026-01-24 21:58:43 INF] HTTP GET /api/v1/categories responded 200 in 340.8242 ms
+[2026-01-24 21:59:24 INF] 1 servers were removed due to timeout
+[2026-01-24 22:00:05 INF] Fetching courses. CacheKey: courses_p1_s10_cat1_lvl2_lng2_rt0_sk_q0
+[2026-01-24 22:00:05 INF] Cache miss. Fetching from Database.
+[2026-01-24 22:00:06 INF] HTTP GET /api/v1/courses responded 200 in 261.4367 ms
+[2026-01-24 22:00:17 INF] Fetching courses. CacheKey: courses_p1_s10_cat1_lvl2_lng0_rt0_sk_q0
+[2026-01-24 22:00:17 INF] Cache miss. Fetching from Database.
+[2026-01-24 22:00:17 INF] HTTP GET /api/v1/courses responded 200 in 108.9317 ms
+[2026-01-24 22:00:38 INF] Fetching courses. CacheKey: courses_p1_s10_cat1_lvl2_lng0_rt0_sk_q0
+[2026-01-24 22:00:38 INF] Returning courses from Cache.
+[2026-01-24 22:00:38 INF] HTTP GET /api/v1/courses responded 200 in 12.5511 ms
+[2026-01-24 22:01:17 INF] Fetching courses. CacheKey: courses_p1_s10_cat0_lvl0_lng0_rt0_sk_q-1311962707
+[2026-01-24 22:01:17 INF] Cache miss. Fetching from Database.
+[2026-01-24 22:01:17 INF] HTTP GET /api/v1/courses responded 200 in 93.7263 ms
+[2026-01-24 22:01:30 INF] HTTP GET /api/v1/dashboard/statistics responded 403 in 14.5519 ms
+[2026-01-24 22:02:41 INF] Fetching user profile for User 5
+[2026-01-24 22:02:41 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-24 22:02:41 INF] HTTP GET /api/v1/users/me responded 200 in 167.2826 ms
+[2026-01-24 22:03:06 INF] Fetching user profile for User 5
+[2026-01-24 22:03:06 INF] HTTP GET /api/v1/users/me responded 200 in 9.6791 ms
+[2026-01-24 22:05:04 INF] Login attempt for email: mhuseynzade2@std.beu.edu.az
+[2026-01-24 22:05:04 INF] User mhuseynzade2@std.beu.edu.az logged in successfully
+[2026-01-24 22:05:04 INF] HTTP POST /api/v1/auth/logins responded 200 in 125.1021 ms
+[2026-01-24 22:05:48 INF] Fetching detailed course data for ID 1
+[2026-01-24 22:05:48 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-24 22:05:49 INF] HTTP GET /api/v1/courses/1 responded 200 in 655.2893 ms
+[2026-01-24 22:11:47 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-24 22:11:47 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-24 22:11:47 INF] HTTP POST /api/v1/auth/logins responded 200 in 134.1913 ms
+[2026-01-24 22:13:58 INF] Fetching user profile for User 3
+[2026-01-24 22:13:58 INF] User 3 is an Instructor. Hiding student-specific data.
+[2026-01-24 22:13:58 INF] HTTP GET /api/v1/users/me responded 200 in 25.8275 ms
+[2026-01-24 22:14:51 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-24 22:14:51 INF] HTTP GET /api/v1/quizzes/1 responded 200 in 158.7521 ms
+[2026-01-24 22:14:59 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 11.6076 ms
+[2026-01-24 22:15:25 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.NotFoundException: Entity "Quiz" (3) was not found.
+   at MonarchLearn.Application.Services.QuizService.GetQuizForStudentAsync(Int32 userId, Int32 quizId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\QuizService.cs:line 52
+   at MonarchLearn.Api.Controllers.QuizzesController.GetById(Int32 id) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\QuizzesController.cs:line 18
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-24 22:15:25 INF] HTTP GET /api/v1/quizzes/3 responded 404 in 13601.5261 ms
+[2026-01-24 22:15:40 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 39.8241 ms
+[2026-01-24 22:16:11 INF] HTTP GET /api/v1/quizzes/1 responded 200 in 48.9625 ms
+[2026-01-24 22:16:57 WRN] Unauthorized access attempt: User 3 tried to access Quiz 1
+[2026-01-24 22:17:09 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.ForbiddenException: You can only manage quizzes belonging to your own courses.
+   at MonarchLearn.Application.Services.QuizManagementService.ValidateQuizOwnershipAsync(Int32 userId, Int32 quizId, Boolean isAdmin) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\QuizManagementService.cs:line 44
+   at MonarchLearn.Application.Services.QuizManagementService.GetQuestionsByQuizIdAsync(Int32 userId, Int32 quizId, Boolean isAdmin) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\QuizManagementService.cs:line 216
+   at MonarchLearn.Api.Controllers.QuizManagementController.GetQuestions(Int32 quizId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\QuizManagementController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-24 22:17:09 INF] HTTP GET /api/v1/management/quizzes/1/questions responded 403 in 11983.6649 ms
+[2026-01-24 22:17:16 INF] HTTP GET /api/v1/management/quizzes/2/questions responded 200 in 59.7953 ms
+[2026-01-24 22:18:23 INF] Fetching detailed course data for ID 1
+[2026-01-24 22:18:23 INF] HTTP GET /api/v1/courses/1 responded 200 in 98.6682 ms
+[2026-01-24 22:18:34 INF] Fetching detailed course data for ID 2
+[2026-01-24 22:18:34 INF] HTTP GET /api/v1/courses/2 responded 200 in 27.1719 ms
+[2026-01-24 22:24:13 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.NotFoundException: Entity "Quiz" (6) was not found.
+   at MonarchLearn.Application.Services.QuizManagementService.ValidateQuizOwnershipAsync(Int32 userId, Int32 quizId, Boolean isAdmin) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\QuizManagementService.cs:line 35
+   at MonarchLearn.Application.Services.QuizManagementService.GetQuestionsByQuizIdAsync(Int32 userId, Int32 quizId, Boolean isAdmin) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\QuizManagementService.cs:line 216
+   at MonarchLearn.Api.Controllers.QuizManagementController.GetQuestions(Int32 quizId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\QuizManagementController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-24 22:24:13 INF] HTTP GET /api/v1/management/quizzes/6/questions responded 404 in 10607.2252 ms
+[2026-01-24 22:24:21 INF] HTTP GET /api/v1/management/quizzes/2/questions responded 200 in 84.7877 ms
+[2026-01-24 22:31:46 INF] Login attempt for email: yodamethegrogu@gmail.com
+[2026-01-24 22:31:46 INF] User yodamethegrogu@gmail.com logged in successfully
+[2026-01-24 22:31:46 INF] HTTP POST /api/v1/auth/logins responded 200 in 117.6090 ms
+[2026-01-24 22:32:20 INF] Fetching detailed course data for ID 1
+[2026-01-24 22:32:20 INF] HTTP GET /api/v1/courses/1 responded 200 in 98.1094 ms
+[2026-01-24 22:32:37 INF] Fetching detailed course data for ID 1
+[2026-01-24 22:32:37 INF] HTTP GET /api/v1/courses/1 responded 200 in 31.2137 ms
+[2026-01-24 22:33:26 INF] Enrollment request: User 5 -> Course 2
+[2026-01-24 22:33:26 WRN] ENROLLMENT DENIED: User 5 has no active subscription
+[2026-01-24 22:34:27 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.ForbiddenException: You need an active subscription to enroll in courses.
+   at MonarchLearn.Application.Services.EnrollmentService.EnrollStudentAsync(Int32 userId, Int32 courseId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\EnrollmentService.cs:line 158
+   at MonarchLearn.Api.Controllers.EnrollmentsController.Create(EnrollRequestDto model) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\EnrollmentsController.cs:line 22
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-24 22:34:27 INF] HTTP POST /api/v1/enrollments responded 403 in 60791.6288 ms
+[2026-01-24 22:34:45 INF] Retrieved 4 active subscription plan(s)
+[2026-01-24 22:34:45 INF] HTTP GET /api/v1/subscription-plans responded 200 in 58.2054 ms
+[2026-01-24 22:34:59 INF] Retrieved 4 active subscription plan(s)
+[2026-01-24 22:34:59 INF] HTTP GET /api/v1/subscription-plans responded 200 in 3.0689 ms
+[2026-01-24 22:35:23 INF] Subscription purchase initiated: User 5, Plan 1
+[2026-01-24 22:35:23 INF] Free trial approved for User 5
+[2026-01-24 22:35:23 INF] Subscription created successfully: User 5, Plan 'Free Trial', Duration 1 days, Expires 1/25/2026
+[2026-01-24 22:35:23 INF] HTTP POST /api/v1/subscriptions responded 201 in 257.4743 ms
+[2026-01-24 22:35:46 INF] Enrollment request: User 5 -> Course 2
+[2026-01-24 22:35:46 INF] Validations passed for enrollment: User 5, Email verified, Subscription active until "2026-01-25T18:35:23.6269568"
+[2026-01-24 22:35:46 INF] Enrollment successful: User 5 -> From uni to Market
+[2026-01-24 22:35:46 INF] HTTP POST /api/v1/enrollments responded 201 in 87.1375 ms
+[2026-01-24 22:41:46 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-24 22:41:46 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-24 22:41:46 INF] HTTP POST /api/v1/auth/logins responded 200 in 110.6756 ms
+[2026-01-24 22:42:11 INF] Fetching detailed course data for ID 2
+[2026-01-24 22:42:11 INF] HTTP GET /api/v1/courses/2 responded 200 in 100.3000 ms
+[2026-01-24 22:45:20 INF] Login attempt for email: yodamethegrogu@gmail.com
+[2026-01-24 22:45:20 INF] User yodamethegrogu@gmail.com logged in successfully
+[2026-01-24 22:45:20 INF] HTTP POST /api/v1/auth/logins responded 200 in 119.1790 ms
+[2026-01-24 22:45:58 INF] HTTP GET /api/v1/enrollments responded 200 in 42.5593 ms
+[2026-01-24 22:47:16 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-24 22:47:16 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-24 22:47:16 INF] HTTP POST /api/v1/auth/logins responded 200 in 122.6015 ms
+[2026-01-24 22:47:36 INF] Fetching user profile for User 3
+[2026-01-24 22:47:36 INF] User 3 is an Instructor. Hiding student-specific data.
+[2026-01-24 22:47:36 INF] HTTP GET /api/v1/users/me responded 200 in 22.5252 ms
+[2026-01-24 22:48:13 INF] Login attempt for email: yodamethegrogu@gmail.com
+[2026-01-24 22:48:14 INF] User yodamethegrogu@gmail.com logged in successfully
+[2026-01-24 22:48:14 INF] HTTP POST /api/v1/auth/logins responded 200 in 107.2919 ms
+[2026-01-24 22:48:39 INF] Fetching detailed course data for ID 2
+[2026-01-24 22:48:39 INF] HTTP GET /api/v1/courses/2 responded 200 in 113.8743 ms
+[2026-01-24 22:52:42 INF] HTTP POST /api/v1/lessons/5/completions responded 400 in 31.5153 ms
+[2026-01-24 22:53:35 INF] ACTION: Completing Lesson 5 for User 5. Manual Trigger: true
+[2026-01-24 22:53:35 WRN] REJECTED: Video Lesson 5 has no valid duration set
+[2026-01-24 22:54:11 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.BadRequestException: Video lesson must have a valid duration set by the instructor.
+   at MonarchLearn.Application.Services.LessonCompletionService.CompleteLessonAsync(Int32 userId, Int32 courseId, Int32 lessonItemId, Int32 watchedSeconds, Boolean markAsFinished) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\LessonCompletionService.cs:line 226
+   at MonarchLearn.Api.Controllers.LessonsController.CreateCompletion(Int32 id, CompleteLessonDto model) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\LessonsController.cs:line 25
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-24 22:54:11 INF] HTTP POST /api/v1/lessons/5/completions responded 400 in 35818.2475 ms
+[2026-01-24 22:56:37 INF] ACTION: Completing Lesson 5 for User 5. Manual Trigger: true
+[2026-01-24 22:56:37 WRN] REJECTED: Video Lesson 5 has no valid duration set
+[2026-01-24 22:57:04 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.BadRequestException: Video lesson must have a valid duration set by the instructor.
+   at MonarchLearn.Application.Services.LessonCompletionService.CompleteLessonAsync(Int32 userId, Int32 courseId, Int32 lessonItemId, Int32 watchedSeconds, Boolean markAsFinished) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\LessonCompletionService.cs:line 226
+   at MonarchLearn.Api.Controllers.LessonsController.CreateCompletion(Int32 id, CompleteLessonDto model) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\LessonsController.cs:line 25
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-24 22:57:04 INF] HTTP POST /api/v1/lessons/5/completions responded 400 in 26177.3163 ms
+[2026-01-24 23:06:22 INF] ACTION: Completing Lesson 5 for User 5. Manual Trigger: true
+[2026-01-24 23:06:22 INF] Creating NEW progress record for Lesson 5
+[2026-01-24 23:06:22 INF] Creating initial streak for User 5
+[2026-01-24 23:06:22 INF] Database changes saved successfully for User 5
+[2026-01-24 23:06:22 INF] HTTP POST /api/v1/lessons/5/completions responded 201 in 170.6081 ms
+[2026-01-24 23:06:58 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 41.8093 ms
+[2026-01-24 23:07:09 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 7.1946 ms
+[2026-01-24 23:08:17 INF] HTTP GET /api/v1/enrollments responded 200 in 13.7942 ms
+[2026-01-24 23:11:27 INF] Processing quiz submission: User 5, Quiz 2
+[2026-01-24 23:11:27 INF] Checking quiz access for User 5, Quiz 2, Enrollment 3
+[2026-01-24 23:11:27 INF] Quiz access granted for User 5
+[2026-01-24 23:11:27 INF] User 5 passed Quiz 2 with 100%
+[2026-01-24 23:11:27 INF] ACTION: Completing Lesson 6 for User 5. Manual Trigger: false
+[2026-01-24 23:11:27 INF] Creating NEW progress record for Lesson 6
+[2026-01-24 23:11:27 INF] Database changes saved successfully for User 5
+[2026-01-24 23:11:27 INF] Lesson 6 auto-completed after quiz pass
+[2026-01-24 23:11:27 INF] Quiz submission processed successfully: Score 100%
+[2026-01-24 23:11:27 INF] HTTP POST /api/v1/quizzes/2/submissions responded 200 in 291.9594 ms
+[2026-01-24 23:12:02 INF] HTTP GET /api/v1/enrollments/2/progress responded 200 in 87.6345 ms
+[2026-01-24 23:13:45 INF] HTTP POST /api/v1/lessons/6/completions responded 400 in 4.6783 ms
+[2026-01-24 23:14:53 INF] ACTION: Completing Lesson 6 for User 5. Manual Trigger: true
+[2026-01-24 23:14:53 INF] Updating EXISTING progress record for Lesson 6
+[2026-01-24 23:14:58 INF] COURSE COMPLETED! Certificate generated for User 5
+[2026-01-24 23:14:58 INF] Database changes saved successfully for User 5
+[2026-01-24 23:14:58 INF] HTTP POST /api/v1/lessons/6/completions responded 201 in 4962.0629 ms
+[2026-01-24 23:15:22 INF] HTTP GET /api/v1/enrollments/2/progress responded 200 in 37.6354 ms
+[2026-01-24 23:16:30 INF] HTTP POST /api/v1/certificates responded 201 in 55.5984 ms
+[2026-01-24 23:16:48 INF] HTTP GET /api/v1/certificates/2 responded 200 in 26.8323 ms
+[2026-01-24 23:16:58 INF] HTTP GET /api/v1/certificates/2/pdf responded 200 in 33.0822 ms

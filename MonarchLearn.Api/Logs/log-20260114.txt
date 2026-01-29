@@ -1,0 +1,880 @@
+[2026-01-14 14:30:10 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:10 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:10 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:10 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:10 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:10 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:10 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:20 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:20 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:20 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:20 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:20 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:20 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:30:20 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:41 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 14:34:42 INF] Start installing Hangfire SQL objects...
+[2026-01-14 14:34:42 INF] PDF Browser is ready.
+[2026-01-14 14:34:43 INF] Hangfire SQL objects installed.
+[2026-01-14 14:34:45 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:45 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:45 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:45 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:45 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:45 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:45 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 14:34:47 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 14:34:47 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 14:34:47 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 14:34:47 INF] Server dearmellocomp:1984:3ae2ac48 successfully announced in 27.234 ms
+[2026-01-14 14:34:47 INF] Server dearmellocomp:1984:3ae2ac48 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 14:34:48 INF] Server dearmellocomp:1984:3ae2ac48 all the dispatchers started
+[2026-01-14 14:34:48 INF] HTTP GET /swagger/index.html responded 200 in 228.5327 ms
+[2026-01-14 14:34:48 INF] HTTP GET / responded 404 in 263.4544 ms
+[2026-01-14 14:34:48 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 41.3829 ms
+[2026-01-14 14:41:18 INF] Login attempt for email: admin@monarchlearn.com
+[2026-01-14 14:41:18 INF] User admin@monarchlearn.com logged in successfully
+[2026-01-14 14:41:18 INF] HTTP POST /api/v1/auth/login responded 200 in 479.1847 ms
+[2026-01-14 14:46:54 INF] Creating new category: IT & Software
+[2026-01-14 14:46:54 INF] Category created successfully: ID 1, Name 'IT & Software'. Cache invalidated.
+[2026-01-14 14:46:54 INF] HTTP POST /api/v1/categories responded 201 in 353.9055 ms
+[2026-01-14 14:47:11 INF] Creating new category: Personal decelopment
+[2026-01-14 14:47:11 INF] Category created successfully: ID 2, Name 'Personal decelopment'. Cache invalidated.
+[2026-01-14 14:47:11 INF] HTTP POST /api/v1/categories responded 201 in 20.3590 ms
+[2026-01-14 14:47:33 INF] Updating category ID 2
+[2026-01-14 14:47:33 INF] Category ID 2 updated: 'Personal decelopment' -> 'Personal Development'. Cache invalidated.
+[2026-01-14 14:47:33 INF] HTTP PUT /api/v1/categories/2 responded 200 in 55.7455 ms
+[2026-01-14 14:47:52 INF] Creating new category: Design
+[2026-01-14 14:47:52 INF] Category created successfully: ID 3, Name 'Design'. Cache invalidated.
+[2026-01-14 14:47:52 INF] HTTP POST /api/v1/categories responded 201 in 7.2088 ms
+[2026-01-14 14:48:05 INF] Creating new category: Marketing
+[2026-01-14 14:48:05 INF] Category created successfully: ID 4, Name 'Marketing'. Cache invalidated.
+[2026-01-14 14:48:05 INF] HTTP POST /api/v1/categories responded 201 in 8.3735 ms
+[2026-01-14 14:48:16 INF] Creating new category: Health
+[2026-01-14 14:48:16 INF] Category created successfully: ID 5, Name 'Health'. Cache invalidated.
+[2026-01-14 14:48:16 INF] HTTP POST /api/v1/categories responded 201 in 13.5679 ms
+[2026-01-14 14:48:26 INF] Retrieved 5 categories from DATABASE and updated cache
+[2026-01-14 14:48:26 INF] HTTP GET /api/v1/categories responded 200 in 32.5263 ms
+[2026-01-14 14:48:51 INF] Creating language: English
+[2026-01-14 14:48:51 INF] Language created successfully: ID 1, Name 'English'. Cache invalidated.
+[2026-01-14 14:48:51 INF] HTTP POST /api/v1/languages responded 201 in 47.1526 ms
+[2026-01-14 14:49:05 INF] Creating language: Russian
+[2026-01-14 14:49:05 INF] Language created successfully: ID 2, Name 'Russian'. Cache invalidated.
+[2026-01-14 14:49:05 INF] HTTP POST /api/v1/languages responded 201 in 6.9335 ms
+[2026-01-14 14:49:17 INF] Creating language: Chinese
+[2026-01-14 14:49:17 INF] Language created successfully: ID 3, Name 'Chinese'. Cache invalidated.
+[2026-01-14 14:49:17 INF] HTTP POST /api/v1/languages responded 201 in 48.5376 ms
+[2026-01-14 14:49:29 INF] Creating language: Azerbaijani
+[2026-01-14 14:49:29 INF] Language created successfully: ID 4, Name 'Azerbaijani'. Cache invalidated.
+[2026-01-14 14:49:29 INF] HTTP POST /api/v1/languages responded 201 in 12.6825 ms
+[2026-01-14 14:49:40 INF] Creating language: French
+[2026-01-14 14:49:40 INF] Language created successfully: ID 5, Name 'French'. Cache invalidated.
+[2026-01-14 14:49:40 INF] HTTP POST /api/v1/languages responded 201 in 8.5927 ms
+[2026-01-14 14:49:47 INF] Retrieved 5 language(s) from DATABASE and updated cache
+[2026-01-14 14:49:47 INF] HTTP GET /api/v1/languages responded 200 in 24.1483 ms
+[2026-01-14 14:50:05 INF] Creating level: Beginner
+[2026-01-14 14:50:05 INF] Level created: Beginner. Cache invalidated.
+[2026-01-14 14:50:05 INF] HTTP POST /api/v1/levels responded 201 in 47.6313 ms
+[2026-01-14 14:50:15 INF] Creating level: Intermediate
+[2026-01-14 14:50:15 INF] Level created: Intermediate. Cache invalidated.
+[2026-01-14 14:50:15 INF] HTTP POST /api/v1/levels responded 201 in 9.1607 ms
+[2026-01-14 14:50:26 INF] Creating level: Advanced
+[2026-01-14 14:50:26 INF] Level created: Advanced. Cache invalidated.
+[2026-01-14 14:50:26 INF] HTTP POST /api/v1/levels responded 201 in 22.4324 ms
+[2026-01-14 14:50:47 INF] Creating skill: Debugging
+[2026-01-14 14:50:47 INF] Skill created: Debugging. Cache invalidated.
+[2026-01-14 14:50:47 INF] HTTP POST /api/v1/skills responded 201 in 68.2190 ms
+[2026-01-14 14:51:04 INF] Creating skill: Artifical Intellegence
+[2026-01-14 14:51:04 INF] Skill created: Artifical Intellegence. Cache invalidated.
+[2026-01-14 14:51:04 INF] HTTP POST /api/v1/skills responded 201 in 7.2548 ms
+[2026-01-14 14:51:19 INF] Creating skill: Communication
+[2026-01-14 14:51:19 INF] Skill created: Communication. Cache invalidated.
+[2026-01-14 14:51:19 INF] HTTP POST /api/v1/skills responded 201 in 9.8537 ms
+[2026-01-14 14:51:36 INF] Creating skill: Social Media Marketing
+[2026-01-14 14:51:36 INF] Skill created: Social Media Marketing. Cache invalidated.
+[2026-01-14 14:51:36 INF] HTTP POST /api/v1/skills responded 201 in 26.6767 ms
+[2026-01-14 14:51:54 INF] Creating skill: Digital Marketing
+[2026-01-14 14:51:54 INF] Skill created: Digital Marketing. Cache invalidated.
+[2026-01-14 14:51:54 INF] HTTP POST /api/v1/skills responded 201 in 9.2359 ms
+[2026-01-14 14:52:08 INF] Creating skill: File Management
+[2026-01-14 14:52:08 INF] Skill created: File Management. Cache invalidated.
+[2026-01-14 14:52:08 INF] HTTP POST /api/v1/skills responded 201 in 6.4912 ms
+[2026-01-14 14:52:28 INF] Creating skill: Problem Solving
+[2026-01-14 14:52:28 INF] Skill created: Problem Solving. Cache invalidated.
+[2026-01-14 14:52:28 INF] HTTP POST /api/v1/skills responded 201 in 8.0913 ms
+[2026-01-14 14:52:49 INF] Creating skill: Psychological analysis
+[2026-01-14 14:52:49 INF] Skill created: Psychological analysis. Cache invalidated.
+[2026-01-14 14:52:49 INF] HTTP POST /api/v1/skills responded 201 in 11.0137 ms
+[2026-01-14 14:53:03 INF] Creating skill: Self-awareness
+[2026-01-14 14:53:03 INF] Skill created: Self-awareness. Cache invalidated.
+[2026-01-14 14:53:04 INF] HTTP POST /api/v1/skills responded 201 in 9.3283 ms
+[2026-01-14 14:53:41 INF] Creating new subscription plan: Free Trial
+[2026-01-14 14:53:41 INF] Subscription plan created: ID 1
+[2026-01-14 14:53:41 INF] HTTP POST /api/v1/subscription-plans responded 201 in 123.7235 ms
+[2026-01-14 14:54:53 INF] Creating new subscription plan: Weekly Plan
+[2026-01-14 14:54:53 INF] Subscription plan created: ID 2
+[2026-01-14 14:54:53 INF] HTTP POST /api/v1/subscription-plans responded 201 in 13.3448 ms
+[2026-01-14 14:55:25 INF] Creating new subscription plan: Monthly Plan
+[2026-01-14 14:55:25 INF] Subscription plan created: ID 3
+[2026-01-14 14:55:25 INF] HTTP POST /api/v1/subscription-plans responded 201 in 8.7130 ms
+[2026-01-14 14:56:07 INF] Creating new subscription plan: Yearly Plan
+[2026-01-14 14:56:07 INF] Subscription plan created: ID 4
+[2026-01-14 14:56:07 INF] HTTP POST /api/v1/subscription-plans responded 201 in 9.4155 ms
+[2026-01-14 14:58:02 INF] Retrieved 4 active subscription plan(s)
+[2026-01-14 14:58:02 INF] HTTP GET /api/v1/subscription-plans responded 200 in 41.2039 ms
+[2026-01-14 15:09:07 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 15:09:07 INF] Start installing Hangfire SQL objects...
+[2026-01-14 15:09:07 INF] PDF Browser is ready.
+[2026-01-14 15:09:07 INF] Hangfire SQL objects installed.
+[2026-01-14 15:09:09 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 15:09:09 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 15:09:09 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 15:09:09 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 15:09:09 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 15:09:09 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 15:09:09 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 15:09:10 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 15:09:10 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 15:09:10 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 15:09:11 INF] Server dearmellocomp:10852:629c946f successfully announced in 22.185 ms
+[2026-01-14 15:09:11 INF] Server dearmellocomp:10852:629c946f is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 15:09:11 INF] 1 servers were removed due to timeout
+[2026-01-14 15:09:11 INF] Server dearmellocomp:10852:629c946f all the dispatchers started
+[2026-01-14 15:09:11 INF] HTTP GET / responded 404 in 503.6468 ms
+[2026-01-14 15:09:11 INF] HTTP GET /swagger/index.html responded 200 in 519.9819 ms
+[2026-01-14 15:09:11 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 51.7547 ms
+[2026-01-14 15:09:31 INF] Retrieved 5 language(s) from DATABASE and updated cache
+[2026-01-14 15:09:31 INF] HTTP GET /api/v1/languages responded 200 in 389.8570 ms
+[2026-01-14 15:17:20 INF] Registration attempt for email: mhuseynzade2@std.beu.edu.az
+[2026-01-14 15:17:20 INF] User mhuseynzade2@std.beu.edu.az registered successfully as Instructor. Email verification required.
+[2026-01-14 15:17:20 INF] HTTP POST /api/v1/auth/registrations responded 201 in 794.8699 ms
+[2026-01-14 15:17:21 INF] Email verification requested for User 2
+[2026-01-14 15:17:21 INF] Verification email (OTP) queued for User 2
+[2026-01-14 15:17:23 INF] Background email successfully sent to mhuseynzade2@std.beu.edu.az for User 2
+[2026-01-14 15:18:08 INF] Email verification attempt for mhuseynzade2@std.beu.edu.az
+[2026-01-14 15:18:08 INF] Email verified successfully for mhuseynzade2@std.beu.edu.az
+[2026-01-14 15:18:08 INF] HTTP POST /api/v1/auth/email-verifications responded 200 in 59.3421 ms
+[2026-01-14 15:18:51 INF] Login attempt for email: mhuseynzade2@std.beu.edu.az
+[2026-01-14 15:18:51 INF] User mhuseynzade2@std.beu.edu.az logged in successfully
+[2026-01-14 15:18:51 INF] HTTP POST /api/v1/auth/login responded 200 in 201.3382 ms
+[2026-01-14 15:22:40 INF] Course creation requested by Instructor 2: C# for .Net Developers
+[2026-01-14 15:22:40 INF] Course image uploaded: /uploads/courses/9ea392a7-43d0-471d-8731-a61fcd111896_1395068.png
+[2026-01-14 15:22:40 INF] Course will be created with 2 skill(s)
+[2026-01-14 15:22:41 INF] Course created successfully: ID 1, Title 'C# for .Net Developers' by Instructor 2
+[2026-01-14 15:22:41 INF] HTTP POST /api/v1/instructor/courses responded 201 in 720.4431 ms
+[2026-01-14 15:23:18 INF] Retrieved 1 course(s) for Instructor 2
+[2026-01-14 15:23:18 INF] HTTP GET /api/v1/instructor/courses responded 200 in 131.3927 ms
+[2026-01-14 15:24:30 INF] Creating module 'Meeting with Backend ' for Course 1
+[2026-01-14 15:24:30 INF] HTTP POST /api/v1/instructor/courses/1/modules responded 201 in 85.4135 ms
+[2026-01-14 15:25:25 INF] Creating module 'Basics of C#' for Course 1
+[2026-01-14 15:25:25 INF] HTTP POST /api/v1/instructor/courses/1/modules responded 201 in 39.9196 ms
+[2026-01-14 15:25:39 INF] Successfully retrieved 2 modules with mapped lessons
+[2026-01-14 15:25:39 INF] HTTP GET /api/v1/instructor/courses/1/modules responded 200 in 63.4061 ms
+[2026-01-14 15:28:39 INF] Creating new lesson in Module 1: What is Backend?
+[2026-01-14 15:28:39 INF] Course 1 duration updated to 60s
+[2026-01-14 15:28:39 INF] HTTP POST /api/v1/instructor/modules/1/lessons responded 201 in 184.9950 ms
+[2026-01-14 15:39:38 INF] Creating new lesson in Module 1: Short meeting video with Backend
+[2026-01-14 15:39:40 INF] Course 1 duration updated to 73s
+[2026-01-14 15:39:40 INF] HTTP POST /api/v1/instructor/modules/1/lessons responded 201 in 1747.6981 ms
+[2026-01-14 15:40:52 INF] Successfully retrieved 2 modules with mapped lessons
+[2026-01-14 15:40:52 INF] HTTP GET /api/v1/instructor/courses/1/modules responded 200 in 32.3208 ms
+[2026-01-14 15:46:44 INF] Creating new lesson in Module 2: C# needir?
+[2026-01-14 15:46:44 INF] Course 1 duration updated to 133s
+[2026-01-14 15:46:44 INF] HTTP POST /api/v1/instructor/modules/2/lessons responded 201 in 38.8428 ms
+[2026-01-14 15:51:07 INF] Creating new lesson in Module 2: C# basics haqqinda ilk quiz
+[2026-01-14 15:51:07 INF] Automatic Quiz created with ID 1 for Lesson 4
+[2026-01-14 15:51:07 INF] Course 1 duration updated to 1033s
+[2026-01-14 15:51:07 INF] HTTP POST /api/v1/instructor/modules/2/lessons responded 201 in 118.9060 ms
+[2026-01-14 15:58:49 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 126.0417 ms
+[2026-01-14 16:00:44 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 36.9383 ms
+[2026-01-14 16:02:50 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 26.1224 ms
+[2026-01-14 16:04:36 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 57.5086 ms
+[2026-01-14 16:25:53 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 16:25:53 INF] Start installing Hangfire SQL objects...
+[2026-01-14 16:25:54 INF] PDF Browser is ready.
+[2026-01-14 16:25:54 INF] Hangfire SQL objects installed.
+[2026-01-14 16:25:56 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:25:56 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:25:56 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:25:56 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:25:56 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:25:56 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:25:56 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:25:57 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 16:25:57 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 16:25:57 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 16:25:57 INF] Server dearmellocomp:7420:139dcd59 successfully announced in 22.9292 ms
+[2026-01-14 16:25:57 INF] Server dearmellocomp:7420:139dcd59 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 16:25:58 INF] 1 servers were removed due to timeout
+[2026-01-14 16:25:58 INF] Server dearmellocomp:7420:139dcd59 all the dispatchers started
+[2026-01-14 16:25:58 INF] HTTP GET / responded 404 in 463.2046 ms
+[2026-01-14 16:25:58 INF] HTTP GET /swagger/index.html responded 200 in 489.3833 ms
+[2026-01-14 16:25:58 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 52.3441 ms
+[2026-01-14 16:28:03 INF] Login attempt for email: mhuseynzade2@std.beu.edu.az
+[2026-01-14 16:28:03 INF] User mhuseynzade2@std.beu.edu.az logged in successfully
+[2026-01-14 16:28:03 INF] HTTP POST /api/v1/auth/login responded 200 in 737.5202 ms
+[2026-01-14 16:28:36 INF] Fetching user profile for User 2
+[2026-01-14 16:28:36 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 16:28:36 INF] User 2 is an Instructor. Hiding student-specific data.
+[2026-01-14 16:28:36 INF] Profile retrieved successfully for User 2. Instructor Mode: true
+[2026-01-14 16:28:36 INF] HTTP GET /api/v1/users/me responded 200 in 476.1048 ms
+[2026-01-14 16:29:16 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 145.1788 ms
+[2026-01-14 16:30:47 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 29.9460 ms
+[2026-01-14 16:31:12 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 211.7887 ms
+[2026-01-14 16:31:43 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 25.0643 ms
+[2026-01-14 16:32:13 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 9.9211 ms
+[2026-01-14 16:32:37 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 19.1365 ms
+[2026-01-14 16:33:11 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 48.2205 ms
+[2026-01-14 16:33:28 INF] HTTP POST /api/v1/instructor/quizzes/1/questions responded 201 in 18.9421 ms
+[2026-01-14 16:34:04 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 20.6999 ms
+[2026-01-14 16:34:20 INF] Retrieved 1 course(s) for Instructor 2
+[2026-01-14 16:34:20 INF] HTTP GET /api/v1/instructor/courses responded 200 in 168.2889 ms
+[2026-01-14 16:42:15 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 16:42:15 INF] Start installing Hangfire SQL objects...
+[2026-01-14 16:42:16 INF] PDF Browser is ready.
+[2026-01-14 16:42:16 INF] Hangfire SQL objects installed.
+[2026-01-14 16:42:18 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:42:18 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:42:18 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:42:18 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:42:18 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:42:18 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:42:18 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 16:42:19 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 16:42:19 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 16:42:19 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 16:42:19 INF] Server dearmellocomp:21356:e77aeeee successfully announced in 29.3207 ms
+[2026-01-14 16:42:19 INF] Server dearmellocomp:21356:e77aeeee is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 16:42:19 INF] Server dearmellocomp:21356:e77aeeee all the dispatchers started
+[2026-01-14 16:42:20 INF] HTTP GET / responded 404 in 480.7008 ms
+[2026-01-14 16:42:36 INF] HTTP GET /swagger/index.html responded 200 in 90.1311 ms
+[2026-01-14 16:42:36 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 48.8344 ms
+[2026-01-14 16:43:05 INF] Login attempt for email: mhuseynzade2@std.beu.edu.az
+[2026-01-14 16:43:05 INF] User mhuseynzade2@std.beu.edu.az logged in successfully
+[2026-01-14 16:43:05 INF] HTTP POST /api/v1/auth/login responded 200 in 605.5723 ms
+[2026-01-14 16:47:20 INF] 1 servers were removed due to timeout
+[2026-01-14 16:51:29 INF] HTTP PUT /api/v1/instructor/quizzes/questions/10 responded 200 in 684.9029 ms
+[2026-01-14 16:51:51 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 127.5029 ms
+[2026-01-14 17:07:38 INF] HTTP POST /api/v1/instructor/quizzes/questions/1/options responded 201 in 163.6550 ms
+[2026-01-14 17:08:13 INF] HTTP POST /api/v1/instructor/quizzes/questions/1/options responded 201 in 34.0481 ms
+[2026-01-14 17:09:11 INF] HTTP POST /api/v1/instructor/quizzes/questions/1/options responded 201 in 20.3224 ms
+[2026-01-14 17:09:35 INF] HTTP POST /api/v1/instructor/quizzes/questions/1/options responded 201 in 21.3065 ms
+[2026-01-14 17:10:51 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 24.4725 ms
+[2026-01-14 17:11:25 INF] HTTP POST /api/v1/instructor/quizzes/questions/2/options responded 201 in 18.7706 ms
+[2026-01-14 17:13:30 INF] HTTP POST /api/v1/instructor/quizzes/questions/2/options responded 201 in 57.6457 ms
+[2026-01-14 17:13:51 INF] HTTP POST /api/v1/instructor/quizzes/questions/2/options responded 201 in 45.1193 ms
+[2026-01-14 17:14:29 INF] HTTP POST /api/v1/instructor/quizzes/questions/3/options responded 201 in 14.7617 ms
+[2026-01-14 17:14:54 INF] HTTP POST /api/v1/instructor/quizzes/questions/3/options responded 201 in 15.2218 ms
+[2026-01-14 17:15:34 INF] HTTP POST /api/v1/instructor/quizzes/questions/4/options responded 201 in 82.4624 ms
+[2026-01-14 17:15:59 INF] HTTP POST /api/v1/instructor/quizzes/questions/4/options responded 201 in 64.6344 ms
+[2026-01-14 17:16:29 INF] HTTP POST /api/v1/instructor/quizzes/questions/5/options responded 201 in 19.4132 ms
+[2026-01-14 17:17:08 INF] HTTP POST /api/v1/instructor/quizzes/questions/5/options responded 201 in 15.1984 ms
+[2026-01-14 17:19:05 INF] HTTP POST /api/v1/instructor/quizzes/questions/6/options responded 201 in 46.3603 ms
+[2026-01-14 17:19:30 INF] HTTP POST /api/v1/instructor/quizzes/questions/6/options responded 201 in 16.3658 ms
+[2026-01-14 17:19:59 INF] HTTP POST /api/v1/instructor/quizzes/questions/7/options responded 201 in 15.9035 ms
+[2026-01-14 17:20:20 INF] HTTP POST /api/v1/instructor/quizzes/questions/7/options responded 201 in 14.8188 ms
+[2026-01-14 17:20:45 INF] HTTP POST /api/v1/instructor/quizzes/questions/7/options responded 201 in 28.0663 ms
+[2026-01-14 17:21:06 INF] HTTP POST /api/v1/instructor/quizzes/questions/7/options responded 201 in 11.9688 ms
+[2026-01-14 17:22:02 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 24.1296 ms
+[2026-01-14 17:23:31 INF] HTTP POST /api/v1/instructor/quizzes/questions/8/options responded 201 in 25.4040 ms
+[2026-01-14 17:24:02 INF] HTTP POST /api/v1/instructor/quizzes/questions/8/options responded 201 in 15.5816 ms
+[2026-01-14 17:29:26 INF] HTTP POST /api/v1/instructor/quizzes/questions/9/options responded 201 in 16.8474 ms
+[2026-01-14 17:29:52 INF] HTTP POST /api/v1/instructor/quizzes/questions/9/options responded 201 in 17.5366 ms
+[2026-01-14 17:30:30 INF] HTTP POST /api/v1/instructor/quizzes/questions/10/options responded 201 in 20.4479 ms
+[2026-01-14 17:30:50 INF] HTTP POST /api/v1/instructor/quizzes/questions/10/options responded 201 in 18.5684 ms
+[2026-01-14 17:31:07 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 20.5315 ms
+[2026-01-14 18:22:12 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 18:22:12 INF] Start installing Hangfire SQL objects...
+[2026-01-14 18:22:12 INF] PDF Browser is ready.
+[2026-01-14 18:22:13 INF] Hangfire SQL objects installed.
+[2026-01-14 18:22:15 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 18:22:15 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 18:22:15 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 18:22:15 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 18:22:15 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 18:22:15 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 18:22:15 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 18:22:17 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 18:22:17 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 18:22:17 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 18:22:17 INF] Server dearmellocomp:1700:198e887e successfully announced in 22.8725 ms
+[2026-01-14 18:22:17 INF] Server dearmellocomp:1700:198e887e is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 18:22:17 INF] 1 servers were removed due to timeout
+[2026-01-14 18:22:17 INF] Server dearmellocomp:1700:198e887e all the dispatchers started
+[2026-01-14 18:22:17 INF] HTTP GET / responded 404 in 485.0839 ms
+[2026-01-14 18:22:17 INF] HTTP GET /swagger/index.html responded 200 in 507.7278 ms
+[2026-01-14 18:22:17 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 44.2474 ms
+[2026-01-14 18:23:00 INF] Login attempt for email: mhuseynzade2@std.beu.edu.az
+[2026-01-14 18:23:00 INF] User mhuseynzade2@std.beu.edu.az logged in successfully
+[2026-01-14 18:23:01 INF] HTTP POST /api/v1/auth/login responded 200 in 710.8631 ms
+[2026-01-14 18:25:57 INF] Retrieved 5 categories from DATABASE and updated cache
+[2026-01-14 18:25:57 INF] HTTP GET /api/v1/categories responded 200 in 309.8922 ms
+[2026-01-14 18:28:56 INF] Fetching courses. CacheKey: courses_p1_s10_cat0_lvl0_lng0_rt0_sk_q830865257
+[2026-01-14 18:28:56 INF] Cache miss. Fetching from Database.
+[2026-01-14 18:28:56 INF] HTTP GET /api/v1/courses responded 200 in 286.1569 ms
+[2026-01-14 18:29:16 INF] Fetching courses. CacheKey: courses_p1_s10_cat1_lvl0_lng0_rt0_sk_q0
+[2026-01-14 18:29:16 INF] Cache miss. Fetching from Database.
+[2026-01-14 18:29:16 INF] HTTP GET /api/v1/courses responded 200 in 71.2120 ms
+[2026-01-14 18:29:34 INF] Fetching courses. CacheKey: courses_p1_s10_cat0_lvl2_lng4_rt0_sk_q0
+[2026-01-14 18:29:34 INF] Cache miss. Fetching from Database.
+[2026-01-14 18:29:34 INF] HTTP GET /api/v1/courses responded 200 in 85.0390 ms
+[2026-01-14 18:29:53 INF] Fetching courses. CacheKey: courses_p1_s10_cat0_lvl0_lng0_rt0_sk7_q0
+[2026-01-14 18:29:53 INF] Cache miss. Fetching from Database.
+[2026-01-14 18:29:53 INF] HTTP GET /api/v1/courses responded 200 in 132.9228 ms
+[2026-01-14 18:30:08 INF] Fetching courses. CacheKey: courses_p1_s10_cat2_lvl0_lng0_rt0_sk7_q0
+[2026-01-14 18:30:08 INF] Cache miss. Fetching from Database.
+[2026-01-14 18:30:08 INF] HTTP GET /api/v1/courses responded 200 in 99.7876 ms
+[2026-01-14 18:32:35 INF] Fetching detailed course data for ID 1
+[2026-01-14 18:32:35 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 18:32:35 INF] HTTP GET /api/v1/courses/1 responded 200 in 578.2941 ms
+[2026-01-14 18:33:10 INF] HTTP GET /api/v1/enrollments/1/progress responded 200 in 125.2777 ms
+[2026-01-14 19:00:54 INF] Registration attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 19:00:55 INF] User huseynovatahire5141@gmail.com registered successfully as Instructor. Email verification required.
+[2026-01-14 19:00:55 INF] HTTP POST /api/v1/auth/registrations responded 201 in 349.2202 ms
+[2026-01-14 19:00:55 INF] Email verification requested for User 3
+[2026-01-14 19:00:55 INF] Verification email (OTP) queued for User 3
+[2026-01-14 19:00:57 INF] Background email successfully sent to huseynovatahire5141@gmail.com for User 3
+[2026-01-14 19:01:49 INF] Email verification attempt for huseynovatahire5141@gmail.com
+[2026-01-14 19:01:49 ERR] Email verification failed for huseynovatahire5141@gmail.com: Invalid or expired code
+[2026-01-14 19:03:59 INF] Resend verification code requested for email: huseynovatahire5141@gmail.com
+[2026-01-14 19:03:59 INF] Verification code resend task successfully enqueued for User 3 (huseynovatahire5141@gmail.com)
+[2026-01-14 19:03:59 INF] HTTP POST /api/v1/auth/verification-codes/resend responded 200 in 7174.6176 ms
+[2026-01-14 19:03:59 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.BadRequestException: Email verification failed: Invalid or expired code.
+   at MonarchLearn.Application.Services.AuthService.VerifyEmailAsync(String email, String token) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\AuthService.cs:line 338
+   at MonarchLearn.Api.Controllers.AuthController.VerifyEmail(VerifyEmailDto model) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-14 19:03:59 INF] Email verification requested for User 3
+[2026-01-14 19:03:59 INF] HTTP POST /api/v1/auth/email-verifications responded 400 in 129888.8716 ms
+[2026-01-14 19:03:59 INF] Verification email (OTP) queued for User 3
+[2026-01-14 19:04:01 INF] Background email successfully sent to huseynovatahire5141@gmail.com for User 3
+[2026-01-14 19:04:41 INF] Email verification attempt for huseynovatahire5141@gmail.com
+[2026-01-14 19:04:41 INF] Email verified successfully for huseynovatahire5141@gmail.com
+[2026-01-14 19:04:41 INF] HTTP POST /api/v1/auth/email-verifications responded 200 in 23.7427 ms
+[2026-01-14 19:07:10 INF] Registration attempt for email: isabellabennet93@gmail.com
+[2026-01-14 19:07:10 INF] User isabellabennet93@gmail.com registered successfully as Student. Email verification required.
+[2026-01-14 19:07:10 INF] HTTP POST /api/v1/auth/registrations responded 201 in 238.2251 ms
+[2026-01-14 19:07:10 INF] Email verification requested for User 4
+[2026-01-14 19:07:10 INF] Verification email (OTP) queued for User 4
+[2026-01-14 19:07:16 INF] Background email successfully sent to isabellabennet93@gmail.com for User 4
+[2026-01-14 19:08:08 INF] Email verification attempt for isabellabennet93@gmail.com
+[2026-01-14 19:08:08 INF] Email verified successfully for isabellabennet93@gmail.com
+[2026-01-14 19:08:08 INF] HTTP POST /api/v1/auth/email-verifications responded 200 in 30.6824 ms
+[2026-01-14 19:12:53 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 19:12:53 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 19:12:53 INF] HTTP POST /api/v1/auth/login responded 200 in 148.2271 ms
+[2026-01-14 19:18:29 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.ForbiddenException: Bu kursun tərkibini görmək üçün icazəniz yoxdur.
+   at MonarchLearn.Application.Services.EnrollmentService.GetCourseProgressAsync(Int32 userId, Int32 courseId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\EnrollmentService.cs:line 62
+   at MonarchLearn.Api.Controllers.EnrollmentsController.GetCourseProgress(Int32 courseId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\EnrollmentsController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-14 19:18:29 INF] HTTP GET /api/v1/enrollments/1/progress responded 403 in 303927.5564 ms
+[2026-01-14 19:18:29 INF] Course creation requested by Instructor 3: From uni to Market
+[2026-01-14 19:18:29 INF] Course image uploaded: /uploads/courses/d0029c90-1f26-4bc3-91b0-3076c439786b_willow tree.jpg
+[2026-01-14 19:18:29 INF] Course will be created with 2 skill(s)
+[2026-01-14 19:18:29 INF] Course created successfully: ID 2, Title 'From uni to Market' by Instructor 3
+[2026-01-14 19:18:29 INF] HTTP POST /api/v1/instructor/courses responded 201 in 4765.5456 ms
+[2026-01-14 19:18:45 INF] Execution DelayedJobScheduler recovered from the Faulted state after 00:00:16.0217059 and is in the Running state now
+[2026-01-14 19:19:37 INF] Retrieved 1 course(s) for Instructor 3
+[2026-01-14 19:19:37 INF] HTTP GET /api/v1/instructor/courses responded 200 in 63.9033 ms
+[2026-01-14 19:20:40 INF] Retrieved 1 course(s) for Instructor 3
+[2026-01-14 19:20:40 INF] HTTP GET /api/v1/instructor/courses responded 200 in 29.0479 ms
+[2026-01-14 19:21:08 INF] Fetching detailed course data for ID 1
+[2026-01-14 19:21:08 INF] HTTP GET /api/v1/courses/1 responded 200 in 117.5214 ms
+[2026-01-14 19:21:33 INF] Fetching detailed course data for ID 2
+[2026-01-14 19:21:33 INF] HTTP GET /api/v1/courses/2 responded 200 in 92.5610 ms
+[2026-01-14 19:21:46 INF] Fetching detailed course data for ID 1
+[2026-01-14 19:21:46 INF] HTTP GET /api/v1/courses/1 responded 200 in 57.0588 ms
+[2026-01-14 19:22:22 INF] Fetching user profile for User 3
+[2026-01-14 19:22:22 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 19:22:22 INF] User 3 is an Instructor. Hiding student-specific data.
+[2026-01-14 19:22:22 INF] Profile retrieved successfully for User 3. Instructor Mode: true
+[2026-01-14 19:22:22 INF] HTTP GET /api/v1/users/me responded 200 in 107.4775 ms
+[2026-01-14 19:26:51 INF] Creating module 'Marketinge giris videosu' for Course 2
+[2026-01-14 19:26:51 INF] HTTP POST /api/v1/instructor/courses/2/modules responded 201 in 68.8074 ms
+[2026-01-14 19:27:35 INF] HTTP PUT /api/v1/instructor/modules/3 responded 200 in 64.5092 ms
+[2026-01-14 19:27:58 INF] Successfully retrieved 1 modules with mapped lessons
+[2026-01-14 19:27:58 INF] HTTP GET /api/v1/instructor/courses/2/modules responded 200 in 47.0379 ms
+[2026-01-14 20:21:11 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 20:21:11 INF] PDF Browser is ready.
+[2026-01-14 20:21:11 INF] Start installing Hangfire SQL objects...
+[2026-01-14 20:21:12 INF] Hangfire SQL objects installed.
+[2026-01-14 20:21:14 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:21:14 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:21:14 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:21:14 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:21:14 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:21:14 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:21:14 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:21:16 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 20:21:16 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 20:21:16 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 20:21:16 INF] Server dearmellocomp:29400:1e6916eb successfully announced in 37.5023 ms
+[2026-01-14 20:21:16 INF] Server dearmellocomp:29400:1e6916eb is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 20:21:16 INF] 1 servers were removed due to timeout
+[2026-01-14 20:21:16 INF] Server dearmellocomp:29400:1e6916eb all the dispatchers started
+[2026-01-14 20:21:17 INF] HTTP GET /swagger/index.html responded 200 in 582.2011 ms
+[2026-01-14 20:21:17 INF] HTTP GET / responded 404 in 648.2526 ms
+[2026-01-14 20:21:17 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 47.4570 ms
+[2026-01-14 20:22:12 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 20:22:12 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 20:22:12 INF] HTTP POST /api/v1/auth/login responded 200 in 769.6529 ms
+[2026-01-14 20:27:23 INF] Fetching courses. CacheKey: courses_p1_s10_cat4_lvl0_lng0_rt0_sk_q0
+[2026-01-14 20:27:23 INF] Cache miss. Fetching from Database.
+[2026-01-14 20:27:23 INF] HTTP GET /api/v1/courses responded 200 in 660.2387 ms
+[2026-01-14 20:41:38 INF] HTTP POST /api/v1/instructor/modules/3/lessons responded 400 in 91.3311 ms
+[2026-01-14 20:46:57 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 20:46:57 INF] Start installing Hangfire SQL objects...
+[2026-01-14 20:46:57 INF] PDF Browser is ready.
+[2026-01-14 20:46:58 INF] Hangfire SQL objects installed.
+[2026-01-14 20:46:59 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:46:59 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:46:59 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:46:59 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:46:59 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:46:59 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:46:59 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 20:47:01 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 20:47:01 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 20:47:01 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 20:47:01 INF] Server dearmellocomp:2440:27724ef3 successfully announced in 23.5066 ms
+[2026-01-14 20:47:01 INF] Server dearmellocomp:2440:27724ef3 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 20:47:01 INF] Server dearmellocomp:2440:27724ef3 all the dispatchers started
+[2026-01-14 20:47:02 INF] HTTP GET / responded 404 in 513.6177 ms
+[2026-01-14 20:47:02 INF] HTTP GET /swagger/index.html responded 200 in 535.8842 ms
+[2026-01-14 20:47:02 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 53.9450 ms
+[2026-01-14 20:47:51 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 20:47:51 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 20:47:52 INF] HTTP POST /api/v1/auth/login responded 200 in 630.9270 ms
+[2026-01-14 20:48:27 INF] Retrieved 5 categories from DATABASE and updated cache
+[2026-01-14 20:48:27 INF] HTTP GET /api/v1/categories responded 200 in 348.6109 ms
+[2026-01-14 20:52:01 INF] 1 servers were removed due to timeout
+[2026-01-14 21:22:21 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 21:22:22 INF] Start installing Hangfire SQL objects...
+[2026-01-14 21:22:22 INF] PDF Browser is ready.
+[2026-01-14 21:22:22 INF] Hangfire SQL objects installed.
+[2026-01-14 21:22:24 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:22:24 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:22:24 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:22:24 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:22:24 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:22:24 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:22:24 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:22:25 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 21:22:25 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 21:22:25 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 21:22:25 INF] Server dearmellocomp:39572:3e41fc55 successfully announced in 26.0966 ms
+[2026-01-14 21:22:25 INF] Server dearmellocomp:39572:3e41fc55 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 21:22:26 INF] 1 servers were removed due to timeout
+[2026-01-14 21:22:26 INF] Server dearmellocomp:39572:3e41fc55 all the dispatchers started
+[2026-01-14 21:22:26 INF] HTTP GET / responded 404 in 506.3649 ms
+[2026-01-14 21:22:26 INF] HTTP GET /swagger/index.html responded 200 in 524.7078 ms
+[2026-01-14 21:22:26 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 64.8767 ms
+[2026-01-14 21:23:04 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 21:23:04 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 21:23:04 INF] HTTP POST /api/v1/auth/login responded 200 in 663.0888 ms
+[2026-01-14 21:23:47 INF] Retrieved 1 course(s) for Instructor 3
+[2026-01-14 21:23:47 INF] HTTP GET /api/v1/instructor/courses responded 200 in 663.2782 ms
+[2026-01-14 21:24:08 INF] Successfully retrieved 1 modules with mapped lessons
+[2026-01-14 21:24:08 INF] HTTP GET /api/v1/instructor/courses/2/modules responded 200 in 142.4978 ms
+[2026-01-14 21:33:06 INF] HTTP GET /swagger/index.html responded 200 in 1.1554 ms
+[2026-01-14 21:33:06 INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 14.8674 ms
+[2026-01-14 21:33:06 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 37.1421 ms
+[2026-01-14 21:33:42 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 21:33:42 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 21:33:42 INF] HTTP POST /api/v1/auth/login responded 200 in 136.5074 ms
+[2026-01-14 21:35:16 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 21:35:16 INF] PDF Browser is ready.
+[2026-01-14 21:35:16 INF] Start installing Hangfire SQL objects...
+[2026-01-14 21:35:17 INF] Hangfire SQL objects installed.
+[2026-01-14 21:35:19 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:35:19 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:35:19 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:35:19 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:35:19 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:35:19 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:35:19 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:35:21 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 21:35:21 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 21:35:21 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 21:35:21 INF] Server dearmellocomp:22908:dc804a8f successfully announced in 20.1185 ms
+[2026-01-14 21:35:21 INF] Server dearmellocomp:22908:dc804a8f is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 21:35:21 INF] Server dearmellocomp:22908:dc804a8f all the dispatchers started
+[2026-01-14 21:35:21 INF] HTTP GET /swagger/index.html responded 200 in 487.6132 ms
+[2026-01-14 21:35:21 INF] HTTP GET / responded 404 in 489.7747 ms
+[2026-01-14 21:35:22 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 45.7724 ms
+[2026-01-14 21:35:48 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 21:35:49 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 21:35:49 INF] HTTP POST /api/v1/auth/login responded 200 in 759.6969 ms
+[2026-01-14 21:38:54 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 21:38:55 INF] PDF Browser is ready.
+[2026-01-14 21:38:55 INF] Start installing Hangfire SQL objects...
+[2026-01-14 21:38:55 INF] Hangfire SQL objects installed.
+[2026-01-14 21:38:57 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:38:57 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:38:57 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:38:57 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:38:57 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:38:57 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:38:57 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 21:38:59 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 21:38:59 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 21:38:59 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 21:38:59 INF] Server dearmellocomp:39972:ef9d3de0 successfully announced in 21.7722 ms
+[2026-01-14 21:38:59 INF] Server dearmellocomp:39972:ef9d3de0 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 21:38:59 INF] Server dearmellocomp:39972:ef9d3de0 all the dispatchers started
+[2026-01-14 21:38:59 INF] HTTP GET /swagger/index.html responded 200 in 434.3739 ms
+[2026-01-14 21:38:59 INF] HTTP GET / responded 404 in 437.7536 ms
+[2026-01-14 21:39:00 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 44.7291 ms
+[2026-01-14 21:39:34 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 21:39:34 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 21:39:34 INF] HTTP POST /api/v1/auth/login responded 200 in 714.1815 ms
+[2026-01-14 21:43:59 INF] 2 servers were removed due to timeout
+[2026-01-14 21:50:20 INF] Successfully retrieved 1 modules with mapped lessons
+[2026-01-14 21:50:20 INF] HTTP GET /api/v1/instructor/courses/2/modules responded 200 in 562.4841 ms
+[2026-01-14 21:52:46 INF] Creating new lesson in Module 3: From uni to Oba
+[2026-01-14 21:52:46 INF] Course 2 duration updated to 0s
+[2026-01-14 21:52:46 INF] HTTP POST /api/v1/instructor/modules/3/lessons responded 201 in 352.9001 ms
+[2026-01-14 21:55:33 INF] Creating new lesson in Module 3: Oba market intervyu suallari 
+[2026-01-14 21:55:33 INF] Automatic Quiz created with ID 2 for Lesson 6
+[2026-01-14 21:55:33 INF] Course 2 duration updated to 0s
+[2026-01-14 21:55:33 INF] HTTP POST /api/v1/instructor/modules/3/lessons responded 201 in 117.9691 ms
+[2026-01-14 21:56:03 INF] Successfully retrieved 1 modules with mapped lessons
+[2026-01-14 21:56:03 INF] HTTP GET /api/v1/instructor/courses/2/modules responded 200 in 22.5726 ms
+[2026-01-14 21:57:20 INF] Instructor 3 updating settings for Quiz 2
+[2026-01-14 21:57:20 INF] Course 2 duration updated to 900s after quiz settings change
+[2026-01-14 21:57:20 INF] Quiz 2 settings and Lesson 6 duration successfully updated
+[2026-01-14 21:57:20 INF] HTTP PUT /api/v1/instructor/quizzes/2/settings responded 200 in 142.1122 ms
+[2026-01-14 21:58:25 INF] HTTP POST /api/v1/instructor/quizzes/2/questions responded 201 in 148.6067 ms
+[2026-01-14 21:59:03 INF] HTTP POST /api/v1/instructor/quizzes/questions/11/options responded 201 in 78.8845 ms
+[2026-01-14 21:59:17 INF] HTTP POST /api/v1/instructor/quizzes/questions/11/options responded 201 in 11.6656 ms
+[2026-01-14 21:59:40 INF] HTTP POST /api/v1/instructor/quizzes/questions/11/options responded 201 in 12.7739 ms
+[2026-01-14 22:00:19 INF] HTTP POST /api/v1/instructor/quizzes/2/questions responded 201 in 28.5305 ms
+[2026-01-14 22:00:41 INF] HTTP POST /api/v1/instructor/quizzes/questions/12/options responded 201 in 15.8869 ms
+[2026-01-14 22:00:58 INF] HTTP POST /api/v1/instructor/quizzes/questions/12/options responded 201 in 10.6732 ms
+[2026-01-14 22:01:28 INF] HTTP POST /api/v1/instructor/quizzes/2/questions responded 201 in 19.0374 ms
+[2026-01-14 22:01:48 INF] HTTP POST /api/v1/instructor/quizzes/questions/13/options responded 201 in 17.9901 ms
+[2026-01-14 22:02:11 INF] HTTP POST /api/v1/instructor/quizzes/questions/13/options responded 201 in 17.1097 ms
+[2026-01-14 22:02:38 INF] HTTP POST /api/v1/instructor/quizzes/2/questions responded 201 in 17.2292 ms
+[2026-01-14 22:03:05 INF] HTTP POST /api/v1/instructor/quizzes/questions/14/options responded 201 in 18.2817 ms
+[2026-01-14 22:03:25 INF] HTTP POST /api/v1/instructor/quizzes/questions/14/options responded 201 in 47.1238 ms
+[2026-01-14 22:03:51 INF] HTTP POST /api/v1/instructor/quizzes/2/questions responded 201 in 16.5401 ms
+[2026-01-14 22:04:21 INF] HTTP POST /api/v1/instructor/quizzes/questions/15/options responded 201 in 17.6440 ms
+[2026-01-14 22:04:43 INF] HTTP POST /api/v1/instructor/quizzes/questions/15/options responded 201 in 17.3245 ms
+[2026-01-14 22:05:14 INF] HTTP POST /api/v1/instructor/quizzes/2/questions responded 201 in 20.8897 ms
+[2026-01-14 22:05:54 INF] HTTP POST /api/v1/instructor/quizzes/questions/16/options responded 201 in 17.8666 ms
+[2026-01-14 22:06:49 INF] HTTP POST /api/v1/instructor/quizzes/questions/16/options responded 201 in 17.3378 ms
+[2026-01-14 22:07:27 INF] HTTP GET /api/v1/instructor/quizzes/2/questions responded 200 in 102.7444 ms
+[2026-01-14 22:07:58 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 22:07:58 INF] HTTP GET /api/v1/quizzes/1 responded 200 in 124.7408 ms
+[2026-01-14 22:08:14 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 10.6667 ms
+[2026-01-14 22:08:23 INF] HTTP GET /api/v1/quizzes/1 responded 200 in 22.2500 ms
+[2026-01-14 22:24:41 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 22:24:42 INF] PDF Browser is ready.
+[2026-01-14 22:24:42 INF] Start installing Hangfire SQL objects...
+[2026-01-14 22:24:42 INF] Hangfire SQL objects installed.
+[2026-01-14 22:24:44 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:24:44 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:24:44 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:24:44 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:24:44 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:24:44 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:24:44 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:24:46 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 22:24:46 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 22:24:46 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 22:24:46 INF] Server dearmellocomp:19460:0187bfec successfully announced in 22.9299 ms
+[2026-01-14 22:24:46 INF] Server dearmellocomp:19460:0187bfec is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 22:24:46 INF] 1 servers were removed due to timeout
+[2026-01-14 22:24:46 INF] Server dearmellocomp:19460:0187bfec all the dispatchers started
+[2026-01-14 22:24:46 INF] HTTP GET /swagger/index.html responded 200 in 496.9411 ms
+[2026-01-14 22:24:46 INF] HTTP GET / responded 404 in 499.5592 ms
+[2026-01-14 22:24:47 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 41.9538 ms
+[2026-01-14 22:25:26 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 22:25:26 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 22:25:26 INF] HTTP POST /api/v1/auth/login responded 200 in 643.8705 ms
+[2026-01-14 22:26:00 INF] HTTP GET /api/v1/instructor/quizzes/2/questions responded 200 in 754.5273 ms
+[2026-01-14 22:26:08 WRN] Unauthorized access attempt: Instructor 3 tried to access Quiz 1
+[2026-01-14 22:26:21 ERR] Unhandled exception caught by GlobalExceptionMiddleware
+MonarchLearn.Domain.Exceptions.ForbiddenException: You can only manage quizzes belonging to your own courses.
+   at MonarchLearn.Application.Services.QuizManagementService.ValidateQuizOwnershipAsync(Int32 instructorId, Int32 quizId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\QuizManagementService.cs:line 45
+   at MonarchLearn.Application.Services.QuizManagementService.GetQuestionsByQuizIdAsync(Int32 instructorId, Int32 quizId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Application\Services\QuizManagementService.cs:line 222
+   at MonarchLearn.Api.Controllers.InstructorQuizzesController.GetQuestions(Int32 quizId) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Controllers\InstructorQuizzesController.cs:line 30
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MonarchLearn.Api.Middleware.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\maley\OneDrive\Documenten\Desktop\MATRIX_PROJECT\MonarchLearn\MonarchLearn.Api\Middleware\GlobalExceptionMiddleware.cs:line 28
+[2026-01-14 22:26:21 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 403 in 13371.1665 ms
+[2026-01-14 22:36:10 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 22:36:10 INF] PDF Browser is ready.
+[2026-01-14 22:36:10 INF] Start installing Hangfire SQL objects...
+[2026-01-14 22:36:11 INF] Hangfire SQL objects installed.
+[2026-01-14 22:36:13 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:36:13 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:36:13 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:36:13 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:36:13 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:36:13 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:36:13 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:36:15 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 22:36:15 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 22:36:15 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 22:36:15 INF] Server dearmellocomp:34392:44a3737e successfully announced in 26.5384 ms
+[2026-01-14 22:36:15 INF] Server dearmellocomp:34392:44a3737e is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 22:36:15 INF] 1 servers were removed due to timeout
+[2026-01-14 22:36:15 INF] Server dearmellocomp:34392:44a3737e all the dispatchers started
+[2026-01-14 22:36:16 INF] HTTP GET /swagger/index.html responded 200 in 515.9492 ms
+[2026-01-14 22:36:16 INF] HTTP GET / responded 404 in 515.6614 ms
+[2026-01-14 22:36:16 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 50.0412 ms
+[2026-01-14 22:36:47 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 22:36:47 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 22:36:47 INF] HTTP POST /api/v1/auth/login responded 200 in 624.2289 ms
+[2026-01-14 22:37:15 INF] Retrieved 1 course(s) for Instructor 3
+[2026-01-14 22:37:15 INF] HTTP GET /api/v1/instructor/courses responded 200 in 603.3825 ms
+[2026-01-14 22:37:35 INF] Successfully retrieved 1 modules with mapped lessons
+[2026-01-14 22:37:35 INF] HTTP GET /api/v1/instructor/courses/2/modules responded 200 in 177.1464 ms
+[2026-01-14 22:37:42 INF] Successfully retrieved 2 modules with mapped lessons
+[2026-01-14 22:37:42 INF] HTTP GET /api/v1/instructor/courses/1/modules responded 200 in 15.0165 ms
+[2026-01-14 22:41:05 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 22:41:05 INF] PDF Browser is ready.
+[2026-01-14 22:41:05 INF] Start installing Hangfire SQL objects...
+[2026-01-14 22:41:06 INF] Hangfire SQL objects installed.
+[2026-01-14 22:41:08 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:41:08 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:41:08 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:41:08 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:41:08 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:41:08 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:41:08 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:41:09 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 22:41:09 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 22:41:09 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 22:41:09 INF] Server dearmellocomp:19432:1c805b0f successfully announced in 20.6086 ms
+[2026-01-14 22:41:09 INF] Server dearmellocomp:19432:1c805b0f is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 22:41:10 INF] Server dearmellocomp:19432:1c805b0f all the dispatchers started
+[2026-01-14 22:41:10 INF] HTTP GET /swagger/index.html responded 200 in 455.3257 ms
+[2026-01-14 22:41:10 INF] HTTP GET / responded 404 in 457.5025 ms
+[2026-01-14 22:41:10 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 49.1947 ms
+[2026-01-14 22:41:42 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 22:41:42 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 22:41:43 INF] HTTP POST /api/v1/auth/login responded 200 in 605.0981 ms
+[2026-01-14 22:42:32 INF] Retrieved 1 course(s) for Instructor 3
+[2026-01-14 22:42:32 INF] HTTP GET /api/v1/instructor/courses responded 200 in 586.4728 ms
+[2026-01-14 22:42:45 INF] Successfully retrieved 1 modules with mapped lessons
+[2026-01-14 22:42:45 INF] HTTP GET /api/v1/instructor/courses/2/modules responded 200 in 188.1243 ms
+[2026-01-14 22:43:20 INF] HTTP GET /api/v1/instructor/quizzes/2/questions responded 200 in 180.9488 ms
+[2026-01-14 22:43:52 INF] Fetching courses. CacheKey: courses_p1_s10_cat0_lvl2_lng0_rt0_sk_q0
+[2026-01-14 22:43:52 INF] Cache miss. Fetching from Database.
+[2026-01-14 22:43:52 INF] HTTP GET /api/v1/courses responded 200 in 167.1824 ms
+[2026-01-14 22:44:31 INF] Fetching detailed course data for ID 1
+[2026-01-14 22:44:31 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 22:44:32 INF] HTTP GET /api/v1/courses/1 responded 200 in 410.7645 ms
+[2026-01-14 22:46:10 INF] 1 servers were removed due to timeout
+[2026-01-14 22:51:12 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 22:51:12 INF] PDF Browser is ready.
+[2026-01-14 22:51:13 INF] Start installing Hangfire SQL objects...
+[2026-01-14 22:51:13 INF] Hangfire SQL objects installed.
+[2026-01-14 22:51:15 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:51:15 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:51:15 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:51:15 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:51:15 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:51:15 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:51:15 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 22:51:17 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 22:51:17 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 22:51:17 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 22:51:17 INF] Server dearmellocomp:27264:c138dc4b successfully announced in 21.2766 ms
+[2026-01-14 22:51:17 INF] Server dearmellocomp:27264:c138dc4b is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 22:51:17 INF] Server dearmellocomp:27264:c138dc4b all the dispatchers started
+[2026-01-14 22:51:18 INF] HTTP GET / responded 404 in 491.9506 ms
+[2026-01-14 22:51:18 INF] HTTP GET /swagger/index.html responded 200 in 486.4008 ms
+[2026-01-14 22:51:18 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 49.4853 ms
+[2026-01-14 22:51:53 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 22:51:53 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 22:51:53 INF] HTTP POST /api/v1/auth/login responded 200 in 684.0191 ms
+[2026-01-14 22:56:17 INF] 1 servers were removed due to timeout
+[2026-01-14 22:57:13 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 22:57:13 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 610.1500 ms
+[2026-01-14 23:04:16 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 23:04:17 INF] PDF Browser is ready.
+[2026-01-14 23:04:17 INF] Start installing Hangfire SQL objects...
+[2026-01-14 23:04:18 INF] Hangfire SQL objects installed.
+[2026-01-14 23:04:20 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:04:20 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:04:20 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:04:20 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:04:20 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:04:20 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:04:20 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:04:21 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 23:04:21 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 23:04:21 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 23:04:21 INF] Server dearmellocomp:29560:b8109283 successfully announced in 23.5996 ms
+[2026-01-14 23:04:21 INF] Server dearmellocomp:29560:b8109283 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 23:04:22 INF] Server dearmellocomp:29560:b8109283 all the dispatchers started
+[2026-01-14 23:04:22 INF] HTTP GET / responded 404 in 456.0476 ms
+[2026-01-14 23:04:22 INF] HTTP GET /swagger/index.html responded 200 in 451.1140 ms
+[2026-01-14 23:04:22 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 44.5495 ms
+[2026-01-14 23:04:51 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 23:04:51 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 23:04:51 INF] HTTP POST /api/v1/auth/login responded 200 in 629.0322 ms
+[2026-01-14 23:05:28 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 23:05:29 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 682.1388 ms
+[2026-01-14 23:05:53 INF] Retrieved 1 course(s) for Instructor 3
+[2026-01-14 23:05:53 INF] HTTP GET /api/v1/instructor/courses responded 200 in 164.1567 ms
+[2026-01-14 23:06:17 INF] Successfully retrieved 1 modules with mapped lessons
+[2026-01-14 23:06:17 INF] HTTP GET /api/v1/instructor/courses/2/modules responded 200 in 137.5574 ms
+[2026-01-14 23:09:22 INF] 1 servers were removed due to timeout
+[2026-01-14 23:13:14 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 23:13:15 INF] PDF Browser is ready.
+[2026-01-14 23:13:15 INF] Start installing Hangfire SQL objects...
+[2026-01-14 23:13:16 INF] Hangfire SQL objects installed.
+[2026-01-14 23:13:18 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:13:18 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:13:18 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:13:18 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:13:18 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:13:18 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:13:18 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:13:19 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 23:13:19 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 23:13:19 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 23:13:19 INF] Server dearmellocomp:32428:76f947c1 successfully announced in 24.7852 ms
+[2026-01-14 23:13:19 INF] Server dearmellocomp:32428:76f947c1 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 23:13:20 INF] Server dearmellocomp:32428:76f947c1 all the dispatchers started
+[2026-01-14 23:13:20 INF] HTTP GET / responded 404 in 599.1944 ms
+[2026-01-14 23:13:20 INF] HTTP GET /swagger/index.html responded 200 in 600.0477 ms
+[2026-01-14 23:13:20 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 50.3698 ms
+[2026-01-14 23:14:12 INF] Login attempt for email: mhuseynzade2@std.beu.edu.az
+[2026-01-14 23:14:13 INF] User mhuseynzade2@std.beu.edu.az logged in successfully
+[2026-01-14 23:14:13 INF] HTTP POST /api/v1/auth/login responded 200 in 706.2338 ms
+[2026-01-14 23:14:49 INF] HTTP GET /api/v1/enrollments/1/progress responded 200 in 629.0254 ms
+[2026-01-14 23:15:37 INF] Successfully retrieved 2 modules with mapped lessons
+[2026-01-14 23:15:37 INF] HTTP GET /api/v1/instructor/courses/1/modules responded 200 in 126.0450 ms
+[2026-01-14 23:16:29 INF] HTTP GET /api/v1/instructor/quizzes/1/questions responded 200 in 158.4789 ms
+[2026-01-14 23:19:31 INF] Checking/Downloading Chromium for PDF generation...
+[2026-01-14 23:19:31 INF] Start installing Hangfire SQL objects...
+[2026-01-14 23:19:32 INF] PDF Browser is ready.
+[2026-01-14 23:19:32 INF] Hangfire SQL objects installed.
+[2026-01-14 23:19:34 WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'Answer'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:19:34 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'Attempt'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:19:34 WRN] Entity 'Enrollment' has a global query filter defined and is the required end of a relationship with the entity 'LessonProgress'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:19:34 WRN] Entity 'Course' has a global query filter defined and is the required end of a relationship with the entity 'CourseStatistics'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:19:34 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserEducation'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:19:34 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserStreak'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:19:34 WRN] Entity 'AppUser' has a global query filter defined and is the required end of a relationship with the entity 'UserWorkExperience'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+[2026-01-14 23:19:35 INF] Starting Hangfire Server using job storage: 'SQL Server: .@MonarchLearn3Db'
+[2026-01-14 23:19:35 INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+[2026-01-14 23:19:35 INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+[2026-01-14 23:19:35 INF] Server dearmellocomp:15944:6f9dee1b successfully announced in 18.9472 ms
+[2026-01-14 23:19:35 INF] Server dearmellocomp:15944:6f9dee1b is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+[2026-01-14 23:19:35 INF] 1 servers were removed due to timeout
+[2026-01-14 23:19:35 INF] Server dearmellocomp:15944:6f9dee1b all the dispatchers started
+[2026-01-14 23:19:36 INF] HTTP GET / responded 404 in 408.5667 ms
+[2026-01-14 23:19:41 INF] HTTP GET /swagger/index.html responded 200 in 96.9389 ms
+[2026-01-14 23:19:41 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 36.9721 ms
+[2026-01-14 23:20:20 INF] Login attempt for email: huseynovatahire5141@gmail.com
+[2026-01-14 23:20:20 INF] User huseynovatahire5141@gmail.com logged in successfully
+[2026-01-14 23:20:21 INF] HTTP POST /api/v1/auth/login responded 200 in 751.6128 ms
+[2026-01-14 23:21:32 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-01-14 23:21:33 INF] HTTP GET /api/v1/quizzes/2 responded 200 in 631.8192 ms
+[2026-01-14 23:24:35 INF] 1 servers were removed due to timeout

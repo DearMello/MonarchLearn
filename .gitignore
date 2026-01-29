@@ -1,0 +1,8 @@
+# Sistem və müvəqqəti fayllar
+.vs/
+[Bb]in/
+[Oo]bj/
+
+# Şəxsi tənzimləmələr - GitHub-a GETMƏYƏCƏK
+MonarchLearn.Api/appsettings.json
+MonarchLearn.Api/appsettings.Development.json

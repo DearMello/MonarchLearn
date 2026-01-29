@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <style>
+        body {
+            font-family: 'Helvetica', sans-serif;
+            text-align: center;
+            border: 20px solid #78ae6d;
+            padding: 40px;
+            color: #333;
+        }
+
+        .container {
+            border: 5px solid #78ae6d;
+            padding: 20px;
+            height: 90%;
+        }
+
+        h1 {
+            font-size: 48px;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        .subtitle {
+            font-size: 18px;
+            color: #7f8c8d;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .content {
+            margin-top: 40px;
+        }
+
+        .name {
+            font-size: 42px;
+            font-weight: bold;
+            border-bottom: 2px solid #27ae60;
+            display: inline-block;
+            padding-bottom: 10px;
+            margin: 20px 0;
+            color: #27ae60;
+        }
+
+        .course-label {
+            font-size: 22px;
+            margin-top: 20px;
+        }
+
+        .course-name {
+            font-size: 36px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin: 10px 0;
+        }
+
+        .footer {
+            margin-top: 60px;
+            font-size: 14px;
+            color: #95a5a6;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 40px;
+        }
+
+        .logo {
+            margin-bottom: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            color: #78ae6d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">MonarchLearn</div>
+        <h1>CERTIFICATE</h1>
+        <p class="subtitle">OF COMPLETION</p>
+
+        <div class="content">
+            <p>This is to certify that</p>
+            <div class="name">{{StudentName}}</div>
+
+            <p class="course-label">has successfully completed the course</p>
+            <div class="course-name">{{CourseName}}</div>
+        </div>
+
+        <div class="footer">
+            <div>
+                <p>Issue Date</p>
+                <p><strong>{{Date}}</strong></p>
+            </div>
+            <div>
+                <p>Certificate ID</p>
+                <p><strong>{{CertificateId}}</strong></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
